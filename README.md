@@ -1,4 +1,12 @@
 ### Hi there 👋
+- I'm currently studing
+- I'm  familiar with:
+   - 1 Kotlin
+   - 2 C#
+   - 3 Python
+   - 4 Java
+   - 5 C++
+   
 
 <!--
 **glbter/glbter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
