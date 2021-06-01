@@ -95,26 +95,26 @@ https://stackoverflow.com/questions/38118051/should-i-make-a-fast-operation-asyn
 https://web.archive.org/web/20120323020957/http://blogs.msdn.com/b/windowsappdev/archive/2012/03/20/keeping-apps-fast-and-fluid-with-asynchrony-in-the-windows-runtime.aspx   
 https://docs.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.safehandle?view=net-5.0   
 ### ado.net
-https://docs.microsoft.com/ru-ru/dotnet/framework/data/adonet/asynchronous-programming
-https://stackoverflow.com/questions/49827208/ado-async-all-the-way-down-the-tubes
-https://stackoverflow.com/questions/9952137/multi-threading-c-sharp-application-with-sql-server-database-calls
-https://stackoverflow.com/questions/44063832/what-is-the-best-practice-in-ef-core-for-using-parallel-async-calls-with-an-inje
-https://docs.microsoft.com/en-us/ef/core/miscellaneous/async
-https://docs.microsoft.com/ru-ru/ef/core/miscellaneous/async
-https://entityframeworkcore.com/knowledge-base/60833482/ef-core-dbcontext-where-async
-https://www.entityframeworktutorial.net/entityframework6/async-query-and-save.aspx
-https://stackoverflow.com/questions/62919835/measuring-performance-for-async-vs-sync-code-in-asp-net-core
-https://entityframework.net/why-ef-async-methods-are-slow
-https://stackoverflow.com/questions/28543293/entity-framework-async-operation-takes-ten-times-as-long-to-complete/28619983#28619983
-[performance](https://www.thereformedprogrammer.net/analysis-of-entity-framework-6-async-performance/)
-https://entityframeworkcore.com/knowledge-base/59988914/entity-framework-core---async---sync---dbcontext
-https://docs.microsoft.com/en-us/dotnet/api/system.data.commandbehavior?redirectedfrom=MSDN&view=net-5.0
-https://docs.microsoft.com/en-gb/archive/blogs/adonet/using-sqldatareaders-new-async-methods-in-net-4-5
-https://github.com/dotnet/efcore/issues/885
-https://github.com/dotnet/SqlClient/issues/245
-https://stackoverflow.com/questions/62919835/measuring-performance-for-async-vs-sync-code-in-asp-net-core
-https://github.com/dotnet/efcore/issues/21147 
+https://docs.microsoft.com/ru-ru/dotnet/framework/data/adonet/asynchronous-programming    
+https://stackoverflow.com/questions/49827208/ado-async-all-the-way-down-the-tubes    
+https://stackoverflow.com/questions/9952137/multi-threading-c-sharp-application-with-sql-server-database-calls    
+https://stackoverflow.com/questions/44063832/what-is-the-best-practice-in-ef-core-for-using-parallel-async-calls-with-an-inje    
+https://docs.microsoft.com/en-us/ef/core/miscellaneous/async    
+https://docs.microsoft.com/ru-ru/ef/core/miscellaneous/async    
+https://entityframeworkcore.com/knowledge-base/60833482/ef-core-dbcontext-where-async    
+https://www.entityframeworktutorial.net/entityframework6/async-query-and-save.aspx    
+https://stackoverflow.com/questions/62919835/measuring-performance-for-async-vs-sync-code-in-asp-net-core    
+https://entityframework.net/why-ef-async-methods-are-slow    
+https://stackoverflow.com/questions/28543293/entity-framework-async-operation-takes-ten-times-as-long-to-complete/28619983#28619983    
+[performance](https://www.thereformedprogrammer.net/analysis-of-entity-framework-6-async-performance/)    
+https://entityframeworkcore.com/knowledge-base/59988914/entity-framework-core---async---sync---dbcontext    
+https://docs.microsoft.com/en-us/dotnet/api/system.data.commandbehavior?redirectedfrom=MSDN&view=net-5.0        
+https://docs.microsoft.com/en-gb/archive/blogs/adonet/using-sqldatareaders-new-async-methods-in-net-4-5    
+https://github.com/dotnet/efcore/issues/885    
+https://github.com/dotnet/SqlClient/issues/245    
+https://stackoverflow.com/questions/62919835/measuring-performance-for-async-vs-sync-code-in-asp-net-core    
+https://github.com/dotnet/efcore/issues/21147     
 
 ### good resources
-https://stackoverflow.com/questions/27089263/how-to-run-and-interact-with-an-async-task-from-a-wpf-gui
-https://github.com/brminnick/AsyncAwaitBestPractices
+https://stackoverflow.com/questions/27089263/how-to-run-and-interact-with-an-async-task-from-a-wpf-gui    
+https://github.com/brminnick/AsyncAwaitBestPractices    
