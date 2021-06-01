@@ -114,3 +114,7 @@ https://github.com/dotnet/efcore/issues/885
 https://github.com/dotnet/SqlClient/issues/245
 https://stackoverflow.com/questions/62919835/measuring-performance-for-async-vs-sync-code-in-asp-net-core
 https://github.com/dotnet/efcore/issues/21147 
+
+### good resources
+https://stackoverflow.com/questions/27089263/how-to-run-and-interact-with-an-async-task-from-a-wpf-gui
+https://github.com/brminnick/AsyncAwaitBestPractices
