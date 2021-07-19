@@ -4,8 +4,9 @@
    - 1 Kotlin
    - 2 C#
    - 3 Python
-   - 4 Java
-   - 5 C++
+   - 4 Go
+   - 5 Java
+   - 6 C++
    
 
 <!--
