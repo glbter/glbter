@@ -1,4 +1,6 @@
 ## softserve it academy Roman
+https://drive.google.com/drive/folders/1EAMUN_cxmSvwpGhBhWEA3S2jo9a0BlkO
+
 https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw
 
 https://talks.godoc.org/github.com/campoy/whispering-gophers/talk.slide#1   
