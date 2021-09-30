@@ -1,11 +1,11 @@
 ### Hi there 👋
 - I'm currently studing
 - I'm  familiar with:
-<p align="center">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go logo" style="height: 100px; width:100px; padding-right:30px"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin logo" style="height: 100px; width:100px;"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python logo" style="height: 100px; width:100px;"/>
-   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java logo" style="height: 100px; width:100px;"/>  
+<p align="left">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go logo" style="height: 50px; width:50px;"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin logo" style="height: 50px; width:50px;"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python logo" style="height: 50px; width:50px;"/>
+   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java logo" style="height: 50px; width:50px;"/>  
 </p>
 
 
